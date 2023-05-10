@@ -1,5 +1,5 @@
 { 
   "_comment": "Sample GloBI dataset descriptor. See http://github.com/globalbioticinteractions for more information.",
   "citation": "Laura Abraham. 2023. Species associations of Amynthas agrestis manually extracted from literature.",
-  "deprecated": true
+  "deprecated": false
 }
